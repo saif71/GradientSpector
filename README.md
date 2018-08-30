@@ -41,7 +41,7 @@ Feel free to submit issues and pull request.
 ## Color List
 ![](https://saif71.com/wp-content/uploads/2018/08/GradientSpector_list.png)
 
-##Class List
+## Class List
 ```.learning_and_leading
 .mello
 .coal

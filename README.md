@@ -17,8 +17,31 @@ A dead simple, Lightweight CSS Library With 330+ Ready to Use Gradient CSS Color
 
 2.  Add the class name to the element you want to add gradient background.
 
-3.  Finally you need to add one of the classes:
+3.  Finally you need to add one of the predefined classes (Check end of the readme):
 
+## Full Example
+
+```html
+<div class="blu">Example</div>
+```
+## Buy me a coffee
+[Donate via Paypal](https://www.paypal.me/saif427)
+
+[Visit my portfolio](https://saif71.com)
+
+Email: epbd.saif@gmail.com
+
+## Contributing
+
+Feel free to submit issues and pull request.
+
+## Special Thanks
+[uigradients](https://uigradients.com/#Reef "uigradients")
+
+## Color List
+![](https://saif71.com/wp-content/uploads/2018/08/GradientSpector_list.png)
+
+##Class List
 ```.learning_and_leading
 .mello
 .coal
@@ -354,25 +377,3 @@ A dead simple, Lightweight CSS Library With 330+ Ready to Use Gradient CSS Color
 .army
 .jodhpur
 ```
-
-## Full Example
-
-```html
-<div class="blu">Example</div>
-```
-## Buy me a coffee
-[Donate via Paypal](https://www.paypal.me/saif427)
-
-[Visit my portfolio](https://saif71.com)
-
-Email: epbd.saif@gmail.com
-
-## Contributing
-
-Feel free to submit issues and pull request.
-
-## Special Thanks
-[uigradients](https://uigradients.com/#Reef "uigradients")
-
-## Color List
-![](https://saif71.com/wp-content/uploads/2018/08/GradientSpector_list.png)

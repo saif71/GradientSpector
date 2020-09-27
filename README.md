@@ -29,8 +29,6 @@ A dead simple, Lightweight CSS Library With 330+ Ready to Use Gradient CSS Color
 
 [Visit my portfolio](https://saif71.com)
 
-Email: epbd.saif@gmail.com
-
 ## Contributing
 
 Feel free to submit issues and pull request.

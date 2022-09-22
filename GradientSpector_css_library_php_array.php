@@ -1,9 +1,3 @@
-<!--
-Author: Salman Hossain Saif
-Web: https://saif71.com
-Email: epbd.saif@gmail.com
-Donate:https://www.paypal.me/saif427
------>
 <!DOCTYPE_html>
 <html>
 <body>
